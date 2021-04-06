@@ -1,0 +1,104 @@
+{
+  "contractName": "ChrisEzike",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/home/chris/Desktop/PROJECT/truffletest/contracts/FirstContract.sol\":\"ChrisEzike\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/home/chris/Desktop/PROJECT/truffletest/contracts/FirstContract.sol\":{\"keccak256\":\"0x77d18ae5248a520e276c4a87402995c9e38b924908ecbbbc6ee116c56953d711\",\"urls\":[\"bzz-raw://a976669add258ba7360cf4b02f295181c6e99cf41ea1300c88c846cae4401d36\",\"dweb:/ipfs/Qmdqfttgr1zkFhxyHb9FhkWrmjic3W2vbAVqha8ff6q1hq\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a7231582021b3af2469eb3b4cba21e68168a0ce0d146f80cd32b8aec3b9ef9ff979f3153464736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a7231582021b3af2469eb3b4cba21e68168a0ce0d146f80cd32b8aec3b9ef9ff979f3153464736f6c63430005100032",
+  "sourceMap": "26:28:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;26:28:0;;;;;;;",
+  "deployedSourceMap": "26:28:0:-;;;;;",
+  "source": "pragma solidity ^0.5.16;\n\ncontract ChrisEzike {\n    \n}",
+  "sourcePath": "/home/chris/Desktop/PROJECT/truffletest/contracts/FirstContract.sol",
+  "ast": {
+    "absolutePath": "/home/chris/Desktop/PROJECT/truffletest/contracts/FirstContract.sol",
+    "exportedSymbols": {
+      "ChrisEzike": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".16"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "ChrisEzike",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "26:28:0"
+      }
+    ],
+    "src": "0:54:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/home/chris/Desktop/PROJECT/truffletest/contracts/FirstContract.sol",
+    "exportedSymbols": {
+      "ChrisEzike": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".16"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "ChrisEzike",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "26:28:0"
+      }
+    ],
+    "src": "0:54:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.2.3",
+  "updatedAt": "2021-04-06T16:09:05.627Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
