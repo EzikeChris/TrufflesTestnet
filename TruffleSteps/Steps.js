@@ -24,3 +24,15 @@ truffle develop
 
 
 Migrate 
+
+
+//// Deploy contract ///
+
+FirstContract.deployed().then((instance)=> {inst = instance:});
+
+/// type variable to point to smart contract
+inst:
+
+/// call the smart contract and check for string 
+inst.getMessage().then(console.log);"
+"
